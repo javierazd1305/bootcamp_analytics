@@ -1,0 +1,1 @@
+## Tipología de datos estructurados e introducción a pandas y numpy
