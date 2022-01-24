@@ -1,0 +1,16 @@
+plugins:
+  - jekyll-relative-links
+  - jemoji
+relative_links:
+  enabled: true
+  collections: true
+include:
+  - 0. Presentación del curso.md
+  - 1. Medidas de tendencia central.md
+
+theme: jekyll-theme-cayman
+title: Bootcamp Analytics
+description: Bootcamp analaytics
+
+github:
+  is_project_page: false
