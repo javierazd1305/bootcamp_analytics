@@ -3,7 +3,7 @@ Cada sección se acompaña de un material teórico y un notebook con ejercicios 
 
 ## Tabla de contenido
 
-1. [Tipología de datos estructurados e introducción a pandas y numpy](https://javierazd1305.github.io/bootcamp_analytics/datos_estructurados.md)
+1. [Tipología de datos estructurados e introducción a pandas y numpy](datos_estructurados.md)
 2. Medidas de tendencia central y dispersión (outliers)
 3. Distribuciones de variables numéricas y categóricas
 4. Correlación
