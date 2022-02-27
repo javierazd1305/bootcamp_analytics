@@ -10,6 +10,8 @@ Numpy: es una librería que permite trabajar la información en formato matricia
 
 Arrays en Numpy:
 
+<img width="964" alt="" src="https://github.com/javierazd1305/bootcamp_analytics/blob/main/imgs/numpy_arrays.JPG">
+
 ![](imgs/numpy_arrays.jpg)
 
 
